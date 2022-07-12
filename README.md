@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmadreza!</h1>
 <h3 align="center">Someone who ♥️ to code, hack, & solve</h3>
+<h4 align="center">I ♥️ to make life easier for people with coding and automation</h4>
 
 - I am working at Megaminer company and our job is 100% Blockchain related duties. We repair GPU Rig and ASIC miners hardware and fix, crack, hack miners software too.  
 - Brands that I am working with right now: Antminer, Ebang, Innosilicon, AvalonMiner, Whatsminer, Cheetah Miner, GoldShell, and iBelink.
