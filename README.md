@@ -2,7 +2,7 @@
 <h3 align="center">Someone who ♥️ to code, hack, & solve</h3>
 <h4 align="center">I ♥️ to make life easier for people with coding and automation</h4>
 
-- I am working at <a href="https://www.megaminer.net">Megaminer</a> company and our job is 100% Blockchain related duties. We repair GPU Rig and ASIC miners hardware and fix, crack, hack miners software too.  
+- I am working at <a href="https://www.megaminer.net/home">Megaminer</a> company and our job is 100% Blockchain related duties. We repair GPU Rig and ASIC miners hardware and fix, crack, hack miners software too.  
 - Brands that I am working with right now: Antminer, Ebang, Innosilicon, AvalonMiner, Whatsminer, Cheetah Miner, GoldShell, and iBelink.
 - 🔭 I’m currently working on coding (Low level & high level languages), pen testing, and more interesting, I am hacking/modifying ASIC miners control board firmware which is beyond having fun ❤️.
 - 🌱 I’m currently learning which I always do till I die.
